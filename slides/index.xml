@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Tracking Exposed</title>
+    <link>te.fmdj.fr/slides/</link>
+    <description>Recent content in Slides on Tracking Exposed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="te.fmdj.fr/slides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our research summary</title>
+      <link>te.fmdj.fr/slides/researches/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>te.fmdj.fr/slides/researches/</guid>
+      <description>removeHeaderFooter(1500) Tracking Exposed * * * A collective project that aims to unveil the algorithm opacity (tracking.exposed) (Paper: WeTest YouTube ) (Paper: PornHub&#39;s Heteronormativity )   Heteronormativity and Pornography  an Algorithmic Analysis of Pornhub  * * * Tracking Exposed &amp; UniMi ( Porn Studies )    poTREX extension Free softwarepornhub.tracking.exposed  we analyze platforms
+* * * NOT PEOPLE TREX browser extension collects data on .</description>
+    </item>
+    
+  </channel>
+</rss>
