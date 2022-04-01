@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prs on Tracking Exposed</title>
-    <link>te.fmdj.fr/pr/</link>
+    <link>https://te.fmdj.fr/pr/</link>
     <description>Recent content in Prs on Tracking Exposed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="te.fmdj.fr/pr/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://te.fmdj.fr/pr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TikTok blocks 95% of content for users in Russia</title>
-      <link>te.fmdj.fr/press/releases/tiktok-blocks-95-of-content-for-users-in-russia/</link>
+      <link>https://te.fmdj.fr/press/releases/tiktok-blocks-95-of-content-for-users-in-russia/</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>te.fmdj.fr/press/releases/tiktok-blocks-95-of-content-for-users-in-russia/</guid>
+      <guid>https://te.fmdj.fr/press/releases/tiktok-blocks-95-of-content-for-users-in-russia/</guid>
       <description>Algorithm investigation experts Tracking Exposed have exclusively uncovered that TikTok has blocked an estimated 95% of content previously available to its 55 million users in Russia.
 The content is restricted at the application layer rather than the transport layer, which requires the direct involvement of TikTok. It is the first time a global social media platform has restricted access to content at this scale. TikTok users in Russia can no longer see content on accounts run by foreign media such as the BBC, or from Tiktok’s biggest stars including Charlie d&amp;rsquo;Amelio.</description>
     </item>

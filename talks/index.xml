@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Tracking Exposed</title>
-    <link>te.fmdj.fr/talks/</link>
+    <link>https://te.fmdj.fr/talks/</link>
     <description>Recent content in Talks on Tracking Exposed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="te.fmdj.fr/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://te.fmdj.fr/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Talks: Torino Hack Night</title>
-      <link>te.fmdj.fr/talks/torino-hacknight/</link>
+      <link>https://te.fmdj.fr/talks/torino-hacknight/</link>
       <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>te.fmdj.fr/talks/torino-hacknight/</guid>
+      <guid>https://te.fmdj.fr/talks/torino-hacknight/</guid>
       <description>section
   h3
     a(href=&#39;https://facebook.tracking.exposed&#39;) https://facebook.tracking.exposed
@@ -30,10 +30,10 @@ section
     
     <item>
       <title>Talks: Cyberresistance</title>
-      <link>te.fmdj.fr/talks/cyberresistance/</link>
+      <link>https://te.fmdj.fr/talks/cyberresistance/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>te.fmdj.fr/talks/cyberresistance/</guid>
+      <guid>https://te.fmdj.fr/talks/cyberresistance/</guid>
       <description>   https://facebook.tracking.exposed   Cyber*Resistance, 2nd December 2016
 Cristina Carnevali
 448B 0062 ECF6 360D  Testing Top {{ partial &#34;slides/pitch.html&#34; . }} {{ partial &#34;slides/personalisation.md&#34; . }} {{ partial &#34;slides/socialpolicy.md&#34; . }} {{ partial &#34;slides/problemswithpa.md&#34; . }} {{ partial &#34;slides/project.md&#34; . -}} {{ partial &#34;slides/howdoesitwork.md&#34; . }} {{ partial &#34;slides/interfaces.md&#34; . }} {{ partial &#34;slides/roadmap.md&#34; . }} {{ partial &#34;slides/team.md&#34; . }} Testing Bottom </description>
@@ -41,26 +41,26 @@ Cristina Carnevali
     
     <item>
       <title>Talks: IJF 17</title>
-      <link>te.fmdj.fr/talks/ijf17/</link>
+      <link>https://te.fmdj.fr/talks/ijf17/</link>
       <pubDate>Thu, 02 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>te.fmdj.fr/talks/ijf17/</guid>
+      <guid>https://te.fmdj.fr/talks/ijf17/</guid>
       <description>  The Quest for Algorithmic diversity  https://facebook.tracking.exposed   April 2017 - Claudio Agosti Andrea Raimondi   include ../slides/slide1 include ../slides/slide2 include ../slides/slide3 include ../slides/slide4 include ../slides/whatprice include ../slides/slide5-extended include ../slides/slide6 include ../slides/slide7 include ../slides/slide8 include ../slides/slide9 include ../slides/slide10 include ../slides/slide11 include ../slides/livedemo include ../slides/datawehave include ../slides/experiments include ../slides/takeaway the end! not tired? We&#39;ve to build a community and raise funds!
  </description>
     </item>
     
     <item>
       <title>Talks: RightsCon 2017</title>
-      <link>te.fmdj.fr/talks/rightscon-17/</link>
+      <link>https://te.fmdj.fr/talks/rightscon-17/</link>
       <pubDate>Mon, 15 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>te.fmdj.fr/talks/rightscon-17/</guid>
+      <guid>https://te.fmdj.fr/talks/rightscon-17/</guid>
       <description>section(data-background=&#34;/images/pattern-open.png&#34; data-background-repeat=&#34;repeat&#34; data-background-size=&#34;180px&#34;)
   p
     b The Quest for Algorithmic diversity
   p
     a(href=&#34;https://facebook.tracking.exposed&#34;) https://facebook.tracking.exposed
-  img(style=&#34;background-color:white; border:0;&#34; src=&#34;te.fmdj.fr/images/fbtrex_logo.svg&#34;)
+  img(style=&#34;background-color:white; border:0;&#34; src=&#34;https://te.fmdj.fr/images/fbtrex_logo.svg&#34;)
   div
     small March 2017 - 
         a(href=&#34;https://twitter.com/_vecna&#34;) Claudio Agosti
@@ -70,10 +70,10 @@ Cristina Carnevali
     
     <item>
       <title>Talks: Netzpolitischer 54</title>
-      <link>te.fmdj.fr/talks/netzpolitischer-054/</link>
+      <link>https://te.fmdj.fr/talks/netzpolitischer-054/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>te.fmdj.fr/talks/netzpolitischer-054/</guid>
+      <guid>https://te.fmdj.fr/talks/netzpolitischer-054/</guid>
       <description>section
   h3
     a(href=&#34;https://facebook.tracking.exposed&#34;) https://facebook.tracking.exposed

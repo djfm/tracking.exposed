@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Tracking Exposed</title>
-    <link>te.fmdj.fr/blog/</link>
+    <link>https://te.fmdj.fr/blog/</link>
     <description>Recent content in Blogs on Tracking Exposed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="te.fmdj.fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://te.fmdj.fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TikTok, Russia &amp; the emerging Splinternet</title>
-      <link>te.fmdj.fr/blog/tiktok-russia-the-emerging-splinternet/</link>
+      <link>https://te.fmdj.fr/blog/tiktok-russia-the-emerging-splinternet/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>te.fmdj.fr/blog/tiktok-russia-the-emerging-splinternet/</guid>
+      <guid>https://te.fmdj.fr/blog/tiktok-russia-the-emerging-splinternet/</guid>
       <description>On March 15, 2022, Tracking Exposed released a special report documenting our investigation into TikTok’s content restrictions in Russia, which was picked up by news outlets, such as The Wall Street Journal, The Financial Times, Vice News, Le Monde, and WIRED Italia. It also gained substantial traction on Twitter.
 Today we release a special 24 page report into TikTok’s activities in Russia. Our researchers exclusively discovered that TikTok has blocked an estimated 95% of content previously available to its 55 million users in Russia ~without announcing this move~ https://t.</description>
     </item>

@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monthlies on Tracking Exposed</title>
-    <link>te.fmdj.fr/monthly/</link>
+    <link>https://te.fmdj.fr/monthly/</link>
     <description>Recent content in Monthlies on Tracking Exposed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Mar 2022 16:16:16 +0100</lastBuildDate><atom:link href="te.fmdj.fr/monthly/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 16:16:16 +0100</lastBuildDate><atom:link href="https://te.fmdj.fr/monthly/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>February 2022</title>
-      <link>te.fmdj.fr/monthly/february-2022/</link>
+      <link>https://te.fmdj.fr/monthly/february-2022/</link>
       <pubDate>Tue, 01 Mar 2022 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/february-2022/</guid>
+      <guid>https://te.fmdj.fr/monthly/february-2022/</guid>
       <description>https://osf.io/preprints/socarxiv/4egzu
 Online pornography, like other forms of cultural production, is increasingly subject to processes of platformization. While research has focused on the diffusion of online pornography and its broader implications, less attention has been paid to the algorithmic infrastructures through which platforms distribute and manage pornographic content, and how this might reiterate socially embedded views and perspectives. To fill this gap, we consider how Pornhub, currently the leading porn platform, establishes the gender identity of its users, and how this affects the structure of the platform and the distribution and recommendation of content within it.</description>
     </item>
     
     <item>
       <title>January 2022</title>
-      <link>te.fmdj.fr/monthly/january-2022/</link>
+      <link>https://te.fmdj.fr/monthly/january-2022/</link>
       <pubDate>Wed, 02 Feb 2022 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/january-2022/</guid>
+      <guid>https://te.fmdj.fr/monthly/january-2022/</guid>
       <description>January 2022 was an exciting time, as youchoose; despite being ready to launch, it underwent a revamp of the site and the offer.
 Unfortunately, the search for YouTubers to promote the initiative was unsuccessful, it&amp;rsquo;s sad to report, but the YouTubers are afraid of the repercussions that installing youchoose could have on them as if google would punish them for it. Again, it&amp;rsquo;s sad because, on the one hand, it&amp;rsquo;s a defeatist mentality of those who, in fear of being punished by the boss, prefer the status quo.</description>
     </item>
     
     <item>
       <title>2021 year in review</title>
-      <link>te.fmdj.fr/monthly/review-2021/</link>
+      <link>https://te.fmdj.fr/monthly/review-2021/</link>
       <pubDate>Sun, 23 Jan 2022 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/review-2021/</guid>
+      <guid>https://te.fmdj.fr/monthly/review-2021/</guid>
       <description>2021 was the first year in which we were supported with a growth direction. We are grateful for the support of the DATACTIVE team who between 2018 and 2020 allowed us to grow and be more utilised by the academy world, but the quantum leap of 2021 was a turning point in the life of the Tracking Exposed project.
 The most fortunate meeting was with Marc Faddoul, a researcher and analyst who shared experiences and passion for algorithm analysis, with a great capacity for fundraising and product design that we lacked.</description>
     </item>
     
     <item>
       <title>Spring &amp; Summer &#39;21</title>
-      <link>te.fmdj.fr/monthly/springsummer-2021/</link>
+      <link>https://te.fmdj.fr/monthly/springsummer-2021/</link>
       <pubDate>Thu, 23 Sep 2021 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/springsummer-2021/</guid>
+      <guid>https://te.fmdj.fr/monthly/springsummer-2021/</guid>
       <description>Although the project didn&amp;rsquo;t update these entries, the Spring + Summer 2021 was an awakening list of months behind the scenes. We are developing a more robust method of algorithm accountability, more platforms, partnerships, and concepts.
 All the variety of Tracking Exposed is taking shape as long as the team grew, in parallel the public demand for our kind of services grows, as so are new actors in the field.</description>
     </item>
     
     <item>
       <title>January and February&#39;21</title>
-      <link>te.fmdj.fr/monthly/janfeb-2021/</link>
+      <link>https://te.fmdj.fr/monthly/janfeb-2021/</link>
       <pubDate>Sun, 28 Feb 2021 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/janfeb-2021/</guid>
+      <guid>https://te.fmdj.fr/monthly/janfeb-2021/</guid>
       <description>Ongoing project PAADC announced The tool of facebook.tracking.exposed, developed in collaboration with the University of Amsterdam, partnered with I&amp;amp;O poll and other analysts. 2000 Dutch were invited and 600 actives in the collection.
 In this way, we re-framed the browser extension, reduced the interaction offered to adopters by removing the popup, updated the privacy statement explaining who is going to process the data, and collect posts on a dedicated server.</description>
     </item>
     
     <item>
       <title>December 2020 &amp; Year in Review!</title>
-      <link>te.fmdj.fr/monthly/december-2020/</link>
+      <link>https://te.fmdj.fr/monthly/december-2020/</link>
       <pubDate>Tue, 24 Nov 2020 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/december-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/december-2020/</guid>
       <description>This year we struggled not because of covid, but rather for the total lack of funding and partnerships. dah. let&amp;rsquo;s fingercross for 2021! Maybe 2021 would be the year in which we&amp;rsquo;ll close all our github issues :&amp;gt; let&amp;rsquo;s list our repositories:
  yttrex, youtube analysis backend and extension. youtube.tracking.exposed, website content and javascript of frontend facebook.tracking.exposed, website content and javascript of frontend. pornhub.tracking.exposed, website content and javascript of frontend. fbtrex, facebook analysis backend, and web-extension browser extension.</description>
     </item>
     
     <item>
       <title>October &amp; November 2020 updates</title>
-      <link>te.fmdj.fr/monthly/november-2020/</link>
+      <link>https://te.fmdj.fr/monthly/november-2020/</link>
       <pubDate>Tue, 24 Nov 2020 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/november-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/november-2020/</guid>
       <description>1. facebook.tracking.exposed restored The not so visible change of Facebook new UX is the deployment of many anti-scraping countermeasure. This put our collection service offline for a few months. Now it restarted in collecing.
 The official data of new statistics restart is the 15th of November.
 1. 27th of September, 15:15 - 17:45: Tracking Exposed workshop in Berlin     The Tracking Exposed collective project empowers users to gain knowledge of tracking and profiling that determine the information we receive in data market and under the influence of proprietary algorithms.</description>
@@ -80,120 +80,120 @@ The official data of new statistics restart is the 15th of November.
     
     <item>
       <title>September 2020 updates</title>
-      <link>te.fmdj.fr/monthly/september-2020/</link>
+      <link>https://te.fmdj.fr/monthly/september-2020/</link>
       <pubDate>Thu, 24 Sep 2020 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/september-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/september-2020/</guid>
       <description>1. 27th of September, 15:15 - 17:45: Tracking Exposed workshop in Berlin     The Tracking Exposed collective project empowers users to gain knowledge of tracking and profiling that determine the information we receive in data market and under the influence of proprietary algorithms. In this workshop, we&amp;#39;ll introduce the browser extension Youtube.Tracking.Exposed, aimed at the study of YouTube filter bubbles.     &amp;hellip;Participants will learn how to install the extension and how to use it to collect evidence of their own filter bubble.</description>
     </item>
     
     <item>
       <title>August 2020 report</title>
-      <link>te.fmdj.fr/monthly/august-2020/</link>
+      <link>https://te.fmdj.fr/monthly/august-2020/</link>
       <pubDate>Sun, 16 Aug 2020 16:16:16 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/august-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/august-2020/</guid>
       <description>Completed and submitted a paper made from the experiment named weTest1. We used a variety of analysis. For example network visualization enhanced clusters and highlight patterns:  A few months ago, we had insights thanks to such kind of analysis, after a collaborative observation of pornhub [report page, SFW]. The Adult site tests related content on newly uploaded videos. We reused it on YouTube. If you want a takeaway of this paragraph: pornhub and youtube, acts differently in regarding of testing emerging contents.</description>
     </item>
     
     <item>
       <title>May to July 2020 report</title>
-      <link>te.fmdj.fr/monthly/mayjuly-2020/</link>
+      <link>https://te.fmdj.fr/monthly/mayjuly-2020/</link>
       <pubDate>Fri, 31 Jul 2020 10:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/mayjuly-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/mayjuly-2020/</guid>
       <description>Small aggregated May, June, July
  There were a few of progress in YouTube aria-label analysis, as is used in the format developed for weTest1, now we can mine machine readable information from natural language strings. Updated Material-UI library, enhanced youtube popup Implemented a mechanism to analyze searches results from YouTube. Temporarily suspended facebook.tracking.exposed (a database and disk upgrade, plus the implementation of strongest auto-cleaning data policies)  Update: after a few days of down, database is now operative.</description>
     </item>
     
     <item>
       <title>April 2020 work in progress - Quarantine edition n. II</title>
-      <link>te.fmdj.fr/monthly/april-2020/</link>
+      <link>https://te.fmdj.fr/monthly/april-2020/</link>
       <pubDate>Thu, 30 Apr 2020 10:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/april-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/april-2020/</guid>
       <description>On data retention Actions performed On facebook.tracking.exposed we purge cyclically data. The data is backup and not accessible as historical reference. This because might be interesting, in the future, see how Facebook HTML and timelines looked like back in time. The data collected from our infrastructure is divided in two group:
  information submitted by browser extension information generated by us, based on the data above, still inheriting ownership.  The data on point 1 are subject to our data retention policy, our primary goal on this is don&amp;rsquo;t fill the hard drive because that is our bottleneck.</description>
     </item>
     
     <item>
       <title>March 2020 report, Covid edition</title>
-      <link>te.fmdj.fr/monthly/march-2020/</link>
+      <link>https://te.fmdj.fr/monthly/march-2020/</link>
       <pubDate>Tue, 31 Mar 2020 10:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/march-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/march-2020/</guid>
       <description> an allegedly once-per-lifetime crisis just popped out of the blue: covid-19; All the events we were scheduled for March and April have been cancelled. weTest#1 the first collaborative observation of youtube algorithm was happen on the 25th and 26th of March. We didn&amp;rsquo;t yet release any finding nor the definitive dataset. follow the updates.  </description>
     </item>
     
     <item>
       <title>February 2020 report</title>
-      <link>te.fmdj.fr/monthly/february-2020/</link>
+      <link>https://te.fmdj.fr/monthly/february-2020/</link>
       <pubDate>Sun, 01 Mar 2020 10:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/february-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/february-2020/</guid>
       <description>In regards of facebook.tracking.exposed, it is available browser extension v2.0. New adopters get a splash screen on the first Facebook access, old adopters, should notice a logo upgrade. Surprisingly, despite we weren&amp;rsquo;t provide many updates on fbtrex, we see a constant curiosity from the internet (press on the months button to see wider). This work has been done by Alberto Granzotto, also as the first browser extension, and would help us in supporting more platforms.</description>
     </item>
     
     <item>
       <title>January 2020 report</title>
-      <link>te.fmdj.fr/monthly/january-2020/</link>
+      <link>https://te.fmdj.fr/monthly/january-2020/</link>
       <pubDate>Fri, 31 Jan 2020 15:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/january-2020/</guid>
+      <guid>https://te.fmdj.fr/monthly/january-2020/</guid>
       <description>A new experiment happen! the first collaborative observation on the pornhub algorithm, we should follow-up shortly with our final report and announcement of the next test. As part of the Amsterdam DMI winter school, we lead two groups, in which students and researcher analyzed youtube algorithm and Amazon algorithm too (report not yet available, because it is a bit bigger than common) Created an ethics page on poTREX We upgraded our framework in using webslide too, please give a look to this documentation!</description>
     </item>
     
     <item>
       <title>December 2019 report</title>
-      <link>te.fmdj.fr/monthly/december-2019/</link>
+      <link>https://te.fmdj.fr/monthly/december-2019/</link>
       <pubDate>Fri, 10 Jan 2020 15:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/december-2019/</guid>
+      <guid>https://te.fmdj.fr/monthly/december-2019/</guid>
       <description>Social media and low traffic: we&amp;rsquo;ve a mailing list (low traffic), a Mattermost channel, twitter, fediverse / nebbia.fail, Facebook page. All of these should become harmonious and complementary! but at the moment, they are badly used. A documentary in the Italian national TV been aired featuring us! we produced our first analysis of Amazon. If you speak italian, please skip the first 2:18 and watch the episode &amp;ldquo;Il mondo (segreto) di Amazon&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Autumn 2019 report</title>
-      <link>te.fmdj.fr/monthly/autumn-2019/</link>
+      <link>https://te.fmdj.fr/monthly/autumn-2019/</link>
       <pubDate>Sat, 30 Nov 2019 15:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/autumn-2019/</guid>
+      <guid>https://te.fmdj.fr/monthly/autumn-2019/</guid>
       <description>In October and November few major steps happen! we were so busy we didn&amp;rsquo;t even released the October monthly report. Enjoy this dense list with your seasonal chestnuts, red leaf, and unstoppable rainfall.  On facebook.tracking.exposed you can see our new design! Check the Zuckless News, is a special RSS tool transforming topics observed from fbtrex supporters into a feed. we should explain it more clearly. Fixes and improvement on Youtube Tracking Exposed, you can download CSV by videos or by individuals  Also, a new method to mark contributions!</description>
     </item>
     
     <item>
       <title>September 2019 report</title>
-      <link>te.fmdj.fr/monthly/september-2019/</link>
+      <link>https://te.fmdj.fr/monthly/september-2019/</link>
       <pubDate>Mon, 30 Sep 2019 15:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/september-2019/</guid>
+      <guid>https://te.fmdj.fr/monthly/september-2019/</guid>
       <description>Released the new website https://tracking.exposed :) still under review right now, but can be consider published. YouTube in the last revision phase, already public, most of the effort went in https://youtube.tracking.exposed/results. Restructuring of the new &amp;lsquo;group&amp;rsquo; concept, we&amp;rsquo;ll start to implement it on YouTube. Participation to Beyond Future Design festival. The presentation was new but without any original research. Tested and published the new statistics method, now for an individual project can exist configuration files like fbtrex/trexstat.</description>
     </item>
     
     <item>
       <title>Summer 2019 report</title>
-      <link>te.fmdj.fr/monthly/summer-2019/</link>
+      <link>https://te.fmdj.fr/monthly/summer-2019/</link>
       <pubDate>Fri, 30 Aug 2019 15:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/summer-2019/</guid>
+      <guid>https://te.fmdj.fr/monthly/summer-2019/</guid>
       <description>In the summer we were at our peak with people hired for ALEX project. This proven to be quite an hard task, because we have to onboard the new collaborators, and be clear in our task specification.  We have a new brand and style! It should be more organic and has proved value to talk with people in communication sector. We contribute to our first Datathon, organized with berlin Data Science Social Good.</description>
     </item>
     
     <item>
       <title>Spring 2019 report</title>
-      <link>te.fmdj.fr/monthly/spring-2019/</link>
+      <link>https://te.fmdj.fr/monthly/spring-2019/</link>
       <pubDate>Thu, 30 May 2019 15:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/spring-2019/</guid>
+      <guid>https://te.fmdj.fr/monthly/spring-2019/</guid>
       <description>In the spring, three unique things have been completed:  https://eu19.tracking.exposed, finally, our announced European election monitor. This has been also the first experiment using HUGO as new framework to build our *.tracking.exposed websites; The semantic API have been released, and they allow to query by topics. A young and talented collaborator meet at the Winter School had to do a bachelor thesis on algorithm in pornography, and we start to work on the analysis of the Pornhub algorithm, by using the same technology developed for the YouTube algorithm analysis!</description>
     </item>
     
     <item>
       <title>January 2019 report</title>
-      <link>te.fmdj.fr/monthly/january-2019/</link>
+      <link>https://te.fmdj.fr/monthly/january-2019/</link>
       <pubDate>Thu, 31 Jan 2019 15:01:21 +0100</pubDate>
       
-      <guid>te.fmdj.fr/monthly/january-2019/</guid>
+      <guid>https://te.fmdj.fr/monthly/january-2019/</guid>
       <description>After the last year&amp;rsquo;s CCC talk and the 2017-2018 project report, we describe here the progress made during January.  Started splitting the project between Algorithm Exposed, Facebook Tracking Exposed(https://facebook.tracking.exposed) which will be more technical and the various campaigns such as EU19(https://eu19.tracking.exposed). Prepared a document that defines Tracking Exposed as a brand. It helps communicating complex concepts when we open up as a community by clarifying what we do and how we do it.</description>
     </item>
     
